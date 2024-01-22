@@ -1,0 +1,5 @@
+udgangspunkt,direction,measurement_number,rising_or_falling,analytical_value,attempted_value,measured_value,date,equipment,costumer_equipment,task_number
+0,cw,1,None,0,0.0,0.0,20231130 12:56:37.367,ROQ437,AN1183180,???
+0,cw,1,rising,0.5,0.0,1.0,20231130 12:56:44.14,ROQ437,AN1183180,???
+0,ccw,1,None,0,0.0,2.0,20231130 12:56:48.816,ROQ437,AN1183180,???
+0,ccw,1,rising,-0.5,0.0,3.0,20231130 12:56:50.794,ROQ437,AN1183180,???
